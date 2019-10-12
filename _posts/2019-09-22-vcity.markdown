@@ -10,5 +10,5 @@ image: '/images/posts/7.jpg'
 
 -----
 
-![cover1](/Users/deja/Documents/MyPages/otyaa/images/posts/cover1.png)
+<https://raw.githubusercontent.com/dejaaaa/imgs/master/vcity/1.png>
 
