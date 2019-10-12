@@ -10,5 +10,8 @@ image: '/images/posts/7.jpg'
 
 -----
 
-<https://raw.githubusercontent.com/dejaaaa/imgs/master/vcity/1.png>
 
+
+
+
+![alt](https://raw.githubusercontent.com/dejaaaa/imgs/master/vcity/1.png)
