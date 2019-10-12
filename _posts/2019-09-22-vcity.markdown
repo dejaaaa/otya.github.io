@@ -1,0 +1,13 @@
+---
+layout: post
+title: VCity城市地图
+tags: [frontpage, jekyll, blog]
+image: '/images/posts/7.jpg'
+---
+
+![6](/Users/deja/Documents/MyPages/otyaa/images/posts/6.jpg)
+
+繁华过后回家了
+
+![8](/Users/deja/Documents/MyPages/otyaa/images/posts/8.jpg)
+
