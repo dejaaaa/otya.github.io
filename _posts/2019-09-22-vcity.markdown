@@ -10,6 +10,5 @@ image: '/images/posts/7.jpg'
 
 -----
 
+![cover1](/Users/deja/Documents/MyPages/otyaa/images/posts/cover1.png)
 
-
-![4](/Users/deja/Documents/MyPages/otyaa/images/posts/4.jpg)
