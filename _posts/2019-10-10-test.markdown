@@ -1,10 +1,10 @@
 ---
 layout: post
-Title: lol
+Title: VCity 城市地图大数据平台
 tags: [frontpage, jekyll, blog]
-image: '/Users/deja/Documents/MyPages/otyaa/images/posts/3.jpg'
+image: '/images/posts/7.jpg'
 ---
 
 Test
 
-
+![2](/Users/deja/Documents/MyPages/otyaa/images/posts/2.jpg)
