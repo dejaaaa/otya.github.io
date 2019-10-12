@@ -2,7 +2,7 @@
 layout: post
 Title: lol
 tags: [frontpage, jekyll, blog]
-image: '/images/posts/1.jpg'
+image: '/Users/deja/Documents/MyPages/otyaa/images/posts/3.jpg'
 ---
 
 Test
